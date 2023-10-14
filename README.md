@@ -1,2 +1,17 @@
-# zMrKenn
-Hi , i'm Ken and i post here Bot Discord Scripting.
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
+<h2 id="user-content-about-me" dir="auto"><a class="heading-link" href="#about-me">About me<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
+<p dir="auto">Hi, my name is Keen and I am a <em>Romanian</em>, 19 year old, self-taught game-server developer. For now I am studying Software Enginerring at <a href="https://www.uav.ro" rel="nofollow">Universitatea Aurel Vlaicu</a>.</p>
+<!-- <p dir="auto">My main language is <strong>Typescript/Javascript</strong> (<em>node.js</em>) and I'm currently focusing in improving my web development skills with <strong>React</strong> and learning other JS frameworks.</p> 
+<p dir="auto">I like to direct my work towards helping other developers and to provide well-documented, open-source code for other users so I can not only improve my own work but also help others learn.</p>-->
+<h2 id="user-content-my-system" dir="auto"><a class="heading-link" href="#my-system">My system<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
+<p dir="auto">Operating system: Windows 10 Pro</p>
+<p dir="auto">CPU: AMD Ryzen 7 5700X</p>
+<p dir="auto">GPU: Nvidia RTX 2070 SUPER 8GB</p>
+<p dir="auto">RAM: HyperX Fury 32 GB DDR4 3200MHZ</p>
+<p dir="auto">STORAGE: Samsung 1TB SSD M2 + Seagate 2TB HDD</p>
+<h2 id="user-content-contact-me" dir="auto"><a class="heading-link" href="#contact-me">Contact me<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
+<p dir="auto">You can contact me via:</p>
+<ul dir="auto">
+<li><strong>Email</strong>: <em><a href="mailto:admin@keen.ro">admin@keen.ro</a></em></li>
+<li><strong>Discord</strong>: <em>Keen9999</em></li>
+</ul>
