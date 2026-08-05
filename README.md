@@ -39,12 +39,13 @@ Not tutorial projects. Real systems with real users, real money and real uptime.
 ## ▸ activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zMrKenn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMrKenn&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zMrKenn&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zMrKenn/zMrKenn/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zMrKenn/zMrKenn/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/zMrKenn/zMrKenn/output/snake.svg" width="100%" alt="Contribution snake" />
+</picture>
+
 </div>
 
 ---
@@ -71,5 +72,5 @@ disc  Keen9999
 
 <div align="center">
   <br/>
-  <sub>always iterating - always shipping</sub>
+  <sub>always iterating · always shipping</sub>
 </div>
