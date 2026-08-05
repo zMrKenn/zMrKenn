@@ -1,17 +1,75 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
-<h2 id="user-content-about-me" dir="auto"><a class="heading-link" href="#about-me">About me<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
-<p dir="auto">Hi, my name is Keen, I'm 22 year old<!--at <a href="https://www.uav.ro" rel="nofollow">Universitatea Aurel Vlaicu</a>.
-<!-- <p dir="auto">My main language is <strong>Typescript/Javascript</strong> (<em>node.js</em>) and I'm currently focusing in improving my web development skills with <strong>React</strong> and learning other JS frameworks.</p> 
-<p dir="auto">I like to direct my work towards helping other developers and to provide well-documented, open-source code for other users so I can not only improve my own work but also help others learn.</p>-->
-<h2 id="user-content-my-system" dir="auto"><a class="heading-link" href="#my-system">My system<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
-<p dir="auto">Operating system: Windows 11 Pro</p>
-<p dir="auto">CPU: AMD Ryzen 7 5700X OC</p>
-<p dir="auto">GPU: Nvidia RTX 2070 SUPER 8GB OC</p>
-<p dir="auto">RAM: HyperX Fury 32 GB DDR4 3200MHZ</p>
-<p dir="auto">STORAGE: Samsung 2TB SSD M2 + Seagate 2TB HDD</p>
-<h2 id="user-content-contact-me" dir="auto"><a class="heading-link" href="#contact-me">Contact me<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
-<p dir="auto">You can contact me via:</p>
-<ul dir="auto">
-<li><strong>Email</strong>: <em><a href="mailto:me@keen.pub">me@keen.pub</a></em></li>
-<li><strong>Discord</strong>: <em>Keen9999</em></li>
-</ul>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Keen;Full-stack+%2F+systems+dev;Shipping+in+production%2C+daily" alt="Keen" />
+
+<sub><i>Let them be wrong about you, there's nothing to prove.</i></sub>
+
+<br/><br/>
+
+<a href="mailto:me@keen.pub"><img src="https://img.shields.io/badge/me%40keen.pub-0D1117?style=for-the-badge&logo=maildotru&logoColor=A78BFA" alt="Email"/></a>
+<a href="https://keen.pub"><img src="https://img.shields.io/badge/keen.pub-0D1117?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" alt="Website"/></a>
+<img src="https://img.shields.io/badge/Keen9999-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
+<img src="https://img.shields.io/badge/status-building-0D1117?style=for-the-badge&labelColor=0D1117&color=22C55E" alt="Status"/>
+
+</div>
+
+---
+
+## ▸ what I actually do
+
+```text
+◉  production Node / TypeScript APIs — payments, auth, delivery pipelines
+◉  storefronts & admin panels, end to end
+◉  Discord bots that run real support & ops
+◉  Rust desktop tooling, reverse engineering, Lua
+```
+
+Not tutorial projects. Real systems with real users, real money and real uptime.
+
+---
+
+## ▸ stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,rust,cpp,lua,php,mysql,docker,linux,nginx,git,discord&theme=dark" alt="Stack" />
+</p>
+
+---
+
+## ▸ activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zMrKenn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMrKenn&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zMrKenn&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
+</div>
+
+---
+
+## ▸ machine
+
+```yaml
+os:       Windows 11 Pro
+cpu:      AMD Ryzen 7 5700X  (OC)
+gpu:      NVIDIA RTX 2070 SUPER 8GB  (OC)
+ram:      32GB DDR4-3200  HyperX Fury
+storage:  Samsung 2TB NVMe  +  Seagate 2TB HDD
+```
+
+---
+
+## ▸ reach me
+
+```bash
+mail  me@keen.pub
+web   https://keen.pub
+disc  Keen9999
+```
+
+<div align="center">
+  <br/>
+  <sub>always iterating - always shipping</sub>
+</div>
