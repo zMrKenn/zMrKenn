@@ -18,10 +18,10 @@
 ## ▸ what I actually do
 
 ```text
-◉  production Node / TypeScript APIs — payments, auth, delivery pipelines
+◉  production Node / TypeScript APIs - payments, auth, delivery pipelines
 ◉  storefronts & admin panels, end to end
 ◉  Discord bots that run real support & ops
-◉  Rust desktop tooling, reverse engineering, Lua
+◉  Desktop tooling, reverse engineering, Lua
 ```
 
 Not tutorial projects. Real systems with real users, real money and real uptime.
