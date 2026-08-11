@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Keen;Full-stack+%2F+systems+dev;Shipping+in+production%2C+daily" alt="Keen" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Keen;Full-stack+%2F+systems+dev" alt="Keen" />
 
 <sub><i>Let them be wrong about you, there's nothing to prove.</i></sub>
 
