@@ -20,11 +20,11 @@
 ```text
 ◉  production Node / TypeScript APIs - payments, auth, delivery pipelines
 ◉  storefronts & admin panels, end to end
-◉  Discord bots that run real support & ops
+◉  Discord bots
 ◉  Desktop tooling, reverse engineering, Lua
 ```
 
-Not tutorial projects. Real systems with real users, real money and real uptime.
+:) .
 
 ---
 
@@ -72,5 +72,5 @@ disc  Keen9999
 
 <div align="center">
   <br/>
-  <sub>always iterating · always shipping</sub>
+  <sub>always easy · always fast</sub>
 </div>
